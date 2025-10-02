@@ -1,0 +1,14 @@
+.form-control
+{
+    border-color: black;
+}
+
+.form-control:focus
+{
+    box-shadow: none;
+}
+
+label
+{
+    text-align: center;
+}

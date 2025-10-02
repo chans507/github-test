@@ -1,0 +1,33 @@
+#decoLoginTitle
+{
+    background-color: #4471c4;
+}
+#textLoginTitle
+{
+    font-weight: bold;
+}
+
+#helpLoginRequest
+{
+    color: red;
+    text-align: center;
+    font-weight: bold;
+}
+#btnLoginRequest
+{
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    background-color: #4471c4;
+}
+#btnLoginRequest:active
+{
+    background-color: #355898;
+}
+
+#navQuestions
+{
+    color: white;
+    text-align: center;
+    background-color: #223964;
+}

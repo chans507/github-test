@@ -1,0 +1,50 @@
+/* join.html */
+.btn-gender
+{
+    color: #a6a6a6;
+    border: #a6a6a6;
+    border-style: solid;
+    border-width: 1px;
+}
+.val-gender:hover + .btn-gender
+{
+    color: black;
+    border: #a6a6a6;
+    border-style: solid;
+    border-width: 1px;
+}
+.val-gender:checked + .btn-gender
+{
+    color: black;
+    border: #4471c4;
+    border-style: solid;
+    border-width: 1px;
+}
+
+/* findIDdo.html */
+#doneFindID
+{
+    border: #4471c4;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 30px;
+}
+
+#imgCheck
+{
+    width: 40%;
+}
+#textInfo
+{
+    width: 60%;
+}
+
+.vipText
+{
+    color: red;
+    font-weight: bold;
+}
+.fontSize-L
+{
+    font-size: 1.15em;
+}
